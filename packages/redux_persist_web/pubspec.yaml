@@ -8,7 +8,7 @@ environment:
   sdk: ">=1.24.0 <3.0.0"
 
 dependencies:
-  redux_persist: "^0.8.2"
+  redux_persist: "^0.8.4"
 
 # Used for development
 #dependency_overrides:

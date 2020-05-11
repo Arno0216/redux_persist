@@ -10,8 +10,8 @@ environment:
 dependencies:
   flutter:
     sdk: "flutter"
-  path_provider: "^1.2.0"
-  shared_preferences: "^0.5.3"
+  path_provider: "^1.6.7"
+  shared_preferences: "^0.5.7+1"
   redux_persist: "^0.8.0"
 
 # Used for development
